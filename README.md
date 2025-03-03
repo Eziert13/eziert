@@ -1,6 +1,6 @@
  👋 Bienvenue sur mon GitHub !
 
-Je suis **Emmanuel Nono K KOWOUVI**, aussi connu sous le pseudo **eziert**. Passionné par la technologie, je suis un développeur mobile et web en apprentissage, basé au Togo. Je crois en l'innovation et l'impact positif que le code peut avoir sur nos communautés.
+Je suis **Emmanuel Nono Komivi KOWOUVI**, aussi connu sous le pseudo **eziert**. Passionné par la technologie, je suis un développeur mobile et web en apprentissage, basé au Togo. Je crois en l'innovation et l'impact positif que le code peut avoir sur nos communautés.
 
 ---
 
@@ -26,6 +26,6 @@ Je suis **Emmanuel Nono K KOWOUVI**, aussi connu sous le pseudo **eziert**. Pass
 ---
 
  🤝 Contact :
-- ✉️ Email : emmanuelnonokowouvi@gmail.com  
+- ✉️ Email : kowouvikomiviemmanuelnono@gmail.com / eziertt@gmail.com  
 - 🌐 LinkedIn : linkedin.com/in/emmanuel-nono-komivi-kowouvi-537617322
 - ⚡ Alias en ligne : **eziert**
